@@ -21,7 +21,7 @@ Significant Discoveries:
 Product Efficacy: Pinpointed the best-selling products and their revenue contributions.
 Geographical Performance: Assessed sales figures across different territories, identifying growth zones and expansion opportunities.
 Customer Classification: Categorized customers by their purchase habits and pinpointed key segments for focused marketing initiatives.
-Conclusion: I’m eager to discuss the outcomes of this sales analysis project, which provides valuable insights and actionable recommendations to propel our business forward. I look forward to potential discussions and collaborative opportunities! For project verification, please refer to the provided GitHub link.
+Conclusion: I’m eager to discuss the outcomes of this sales analysis project, which provides valuable insights and actionable recommendations to propel our business forward. I look forward to potential discussions and collaborative opportunities!
 
 
 
